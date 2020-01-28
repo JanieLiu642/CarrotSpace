@@ -1,3 +1,32 @@
 <style>
+body 
+{box-sizing:border-box;
+}
+
+h1, h2 {font-family: 'Bangers', cursive;
+}
+
+h1 { font-size:2em;
+}
+
+h2 {font-size:1.3em;										
+}
+
+#navbar { background-color:#999999;
+		    height:20px;									  						 
+ }
+
+#navbar p {
+	font-size:1.5em;
+}
+
+.item { padding: 10px 10px 10px 10px;
+	      background-color:#999999;
+		    margin-bottom: 20px;										
+}
+
+.item p {font-family: 'Open Sans', sans-serif;
+font-size:14px;
+}											
 
 </style>
